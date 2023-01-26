@@ -1,0 +1,3 @@
+# Open Empirical Finance
+
+Our mission at Open Empirical Finance is to promote and advance the field of empirical finance by fostering a collaborative and inclusive community of researchers. We aim to achieve this by providing a platform for sharing information and code, encouraging open-source research, and facilitating the exchange of ideas and techniques among researchers from diverse backgrounds. We believe that by working together, we can make significant contributions to the understanding of financial markets and the economy. Our goal is to create a community that is dedicated to advancing the frontiers of empirical finance, through open and transparent research, to improve the lives of people.
